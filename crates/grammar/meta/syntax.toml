@@ -1,63 +1,243 @@
-keywords = [
-  "astract",
-  "as",
-  "async",
-  "await",
-  "break",
-  "case",
-  "catch",
-  "class",
-  "const",
-  "continue",
-  "constructor",
-  "debugger",
-  "declare",
-  "default",
-  "delete",
-  "do",
-  "else",
-  "enum",
-  "export",
-  "extends",
-  "false",
-  "finally",
-  "for",
-  "from",
-  "function",
-  "get",
-  "if",
-  "implements",
-  "import",
-  "in",
-  "instanceof",
-  "interface",
-  "is",
-  "keyof",
-  "let",
-  "module",
-  "namespace",
-  "new",
-  "null",
-  "of",
-  "package",
-  "private",
-  "protected",
-  "public",
-  "readonly",
-  "return",
-  "set",
-  "static",
-  "super",
-  "switch",
-  "this",
-  "throw",
-  "true",
-  "try",
-  "type",
-  "typeof",
-  "var",
-  "void",
-  "while",
-  "with",
-  "yield",
-]
+[[keywords]]
+name = "abstract"
+supported = true
+
+[[keywords]]
+name = "as"
+supported = true
+
+[[keywords]]
+name = "async"
+supported = false
+
+[[keywords]]
+name = "await"
+supported = false
+
+[[keywords]]
+name = "break"
+supported = true
+
+[[keywords]]
+name = "case"
+supported = true
+
+[[keywords]]
+name = "class"
+supported = true
+
+[[keywords]]
+name = "catch"
+supported = true
+
+[[keywords]]
+name = "const"
+supported = true
+
+[[keywords]]
+name = "continue"
+supported = true
+
+[[keywords]]
+name = "constructor"
+supported = true
+
+[[keywords]]
+name = "debugger"
+supported = false
+
+[[keywords]]
+name = "declare"
+supported = true
+
+[[keywords]]
+name = "default"
+supported = true
+
+[[keywords]]
+name = "delete"
+supported = false
+
+[[keywords]]
+name = "do"
+supported = true
+
+[[keywords]]
+name = "else"
+supported = true
+
+[[keywords]]
+name = "enum"
+supported = true
+
+[[keywords]]
+name = "export"
+supported = true
+
+[[keywords]]
+name = "extends"
+supported = true
+
+[[keywords]]
+name = "false"
+supported = true
+
+[[keywords]]
+name = "finally"
+supported = true
+
+[[keywords]]
+name = "for"
+supported = true
+
+[[keywords]]
+name = "from"
+supported = true
+
+[[keywords]]
+name = "function"
+supported = true
+
+[[keywords]]
+name = "get"
+supported = true
+
+[[keywords]]
+name = "implements"
+supported = true
+
+[[keywords]]
+name = "import"
+supported = true
+
+[[keywords]]
+name = "in"
+supported = false
+
+[[keywords]]
+name = "instanceof"
+supported = true
+
+[[keywords]]
+name = "interface"
+supported = true
+
+[[keywords]]
+name = "is"
+supported = false
+
+[[keywords]]
+name = "keyof"
+supported = false
+
+[[keywords]]
+name = "let"
+supported = true
+
+[[keywords]]
+name = "is"
+supported = false
+
+[[keywords]]
+name = "module"
+supported = false
+
+[[keywords]]
+name = "namespace"
+supported = true
+
+[[keywords]]
+name = "new"
+supported = true
+
+[[keywords]]
+name = "null"
+supported = true
+
+[[keywords]]
+name = "of"
+supported = false
+
+[[keywords]]
+name = "package"
+supported = false
+
+[[keywords]]
+name = "private"
+supported = true
+
+[[keywords]]
+name = "protected"
+supported = true
+
+[[keywords]]
+name = "public"
+supported = true
+
+[[keywords]]
+name = "readonly"
+supported = true
+
+[[keywords]]
+name = "return"
+supported = true
+
+[[keywords]]
+name = "set"
+supported = true
+
+[[keywords]]
+name = "static"
+supported = true
+
+[[keywords]]
+name = "super"
+supported = true
+
+[[keywords]]
+name = "switch"
+supported = true
+
+[[keywords]]
+name = "this"
+supported = true
+
+[[keywords]]
+name = "throw"
+supported = true
+
+[[keywords]]
+name = "true"
+supported = true
+
+[[keywords]]
+name = "type"
+supported = true
+
+[[keywords]]
+name = "try"
+supported = true
+
+[[keywords]]
+name = "typeof"
+supported = true
+
+[[keywords]]
+name = "var"
+supported = true
+
+[[keywords]]
+name = "void"
+supported = true
+
+[[keywords]]
+name = "while"
+supported = true
+
+[[keywords]]
+name = "with"
+supported = false
+
+[[keywords]]
+name = "yield"
+supported = false
