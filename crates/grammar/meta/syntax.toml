@@ -104,7 +104,7 @@ supported = true
 
 [[keywords]]
 name = "if"
-supported = false
+supported = true
 
 [[keywords]]
 name = "implements"
