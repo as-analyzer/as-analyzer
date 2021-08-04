@@ -139,6 +139,10 @@ name = "let"
 supported = true
 
 [[keywords]]
+name = "is"
+supported = false
+
+[[keywords]]
 name = "module"
 supported = false
 
