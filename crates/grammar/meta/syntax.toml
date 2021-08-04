@@ -23,11 +23,11 @@ name = "case"
 supported = true
 
 [[keywords]]
-name = "class"
+name = "catch"
 supported = true
 
 [[keywords]]
-name = "catch"
+name = "class"
 supported = true
 
 [[keywords]]
@@ -35,11 +35,11 @@ name = "const"
 supported = true
 
 [[keywords]]
-name = "continue"
+name = "constructor"
 supported = true
 
 [[keywords]]
-name = "constructor"
+name = "continue"
 supported = true
 
 [[keywords]]
@@ -100,6 +100,10 @@ supported = true
 
 [[keywords]]
 name = "get"
+supported = true
+
+[[keywords]]
+name = "if"
 supported = true
 
 [[keywords]]
@@ -211,11 +215,11 @@ name = "true"
 supported = true
 
 [[keywords]]
-name = "type"
+name = "try"
 supported = true
 
 [[keywords]]
-name = "try"
+name = "type"
 supported = true
 
 [[keywords]]
